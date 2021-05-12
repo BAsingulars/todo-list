@@ -1,4 +1,4 @@
-/* ------------ */
+[/* ------------ */
 // 1. REQUISITOS
 /* ------------ */
 
@@ -22,9 +22,9 @@
 // - Lista de tareas
 
 
-/* ------------ */
+/* --------------- */
 // 2. PLANIFICACIÓN
-/* ------------ */
+/* --------------- */
 
 // 2.1 Hitos de la aplicación
 // - Crear un HTML estático
@@ -34,8 +34,8 @@
 // - Mejorar maquetación
 
 // 2.2 Tareas concretas -> ganar focus
-// - C1 [HTML] Crear input y button boostrap y dejar espacio para el listado <ul> [1h]
-// - C2 [JS] Definir las variables que necesitará el programa
-// - C3 [JS] Escribir todas las funciones vacias de javascript
-// - C4 [JS] Rellenar lógica de funciones: una a una!! -> probar -> siguiente
-// - C5 [HTML] Mejorar interficie
+// - C1 [HTML] Implementar bootstrap + crear input + button + dejar espacio para el listado <ul> [1h]
+// - C2 [JS] Definir las variables que necesitará el programa [0.5h]
+// - C3 [JS] Escribir todas las funciones vacias de javascript [1h]
+// - C4 [JS] Rellenar lógica de funciones: una a una!! -> probar -> siguiente [3h]
+// - C5 [HTML] Mejorar interficie [2h]
