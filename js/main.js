@@ -1,4 +1,4 @@
-[/* ------------ */
+/* ------------ */
 // 1. REQUISITOS
 /* ------------ */
 
@@ -34,8 +34,13 @@
 // - Mejorar maquetación
 
 // 2.2 Tareas concretas -> ganar focus
-// - C1 [HTML] Implementar bootstrap + crear input + button + dejar espacio para el listado <ul> [1h]
-// - C2 [JS] Definir las variables que necesitará el programa [0.5h]
+// C1 [HTML] Implementar bootstrap + crear input + button + dejar espacio para el listado <ul> [1h]
+// -> C2 [JS] Definir las variables que necesitará el programa [0.5h]
 // - C3 [JS] Escribir todas las funciones vacias de javascript [1h]
 // - C4 [JS] Rellenar lógica de funciones: una a una!! -> probar -> siguiente [3h]
 // - C5 [HTML] Mejorar interficie [2h]
+
+// Variables
+var input = document.getElementById("userInput");
+var button = document.getElementById("button");
+var ul = document.querySelector("ul");
